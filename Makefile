@@ -1,4 +1,4 @@
-SW_VER=tacacs-F4.0.4.28
+SW_VER=DEVEL.201712190728
 WORK_NAME=tacacs
 
 build:
