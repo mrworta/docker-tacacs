@@ -1,7 +1,7 @@
 FROM centos:7
 MAINTAINER "MrWorta <mrworta@nightsky.de>"
 
-ARG SW_VER=DEVEL.201712190728
+ARG SW_VER=DEVEL.201912081649
 
 RUN yum update -y; yum install -y curl flex bison tcp_wrappers-devel perl make gcc gcc-c++ bzip2 perl-Digest-MD5
 
